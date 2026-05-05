@@ -1,6 +1,6 @@
 # Sur Shah
 
-Third-year CS student at UC San Diego. I build full-stack applications and AI-powered systems — the kind of things that go from idea to working demo fast.
+Third-year CS student at UC San Diego. I build full-stack applications and AI-powered systems: go from idea to working demo fast.
 
 Currently interested in AI agents, automation pipelines, and real-time systems.
 
